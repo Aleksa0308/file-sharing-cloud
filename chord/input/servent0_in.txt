@@ -1,0 +1,5 @@
+pause 50000
+add_friend localhost:1200
+pause 10000
+pause 30000
+stop
